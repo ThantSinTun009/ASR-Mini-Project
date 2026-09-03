@@ -18,7 +18,7 @@ Recording တွေကိုတော့
 
 Recording tool အနေနဲ့ ဆရာ Dr. Ye Kyaw Thu ရဲ့ Speech Training Recorder ကို အသုံးပြုထားပါတယ်။ Tool ရဲ့ အားသာချက်ကတော့ Kaldi နဲ့ ASR model တည်ဆောက်ဖို့ အတွက် လိုအပ်တဲ့ data format တွေကို recording ယူတဲ့အချိန်မှာပါ တစ်ခါတည်း ထုတ်ပေးတာဖြစ်ပါတယ်။ ဒါကြောင့် အချို့ preprocessing step တွေကို ပိုပြီး မြန်မြန်ဆန်ဆန် ပြုလုပ်လာနိုင်ပါတယ်။
 
-Source: [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool)
+More Details: [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool)
 
 ## References
 
