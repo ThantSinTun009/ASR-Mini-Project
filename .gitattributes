@@ -1,0 +1,10 @@
+# Exclude Jupyter notebooks from language statistics
+notebooks/*.ipynb linguist-vendored
+
+# Exclude datasets and generated experiment files
+data/** linguist-vendored
+exp/** linguist-generated
+
+# Keep actual source scripts counted
+local/*.sh linguist-detectable
+scripts/*.sh linguist-detectable
