@@ -1,10 +1,8 @@
-# Exclude Jupyter notebooks from language statistics
-notebooks/*.ipynb linguist-vendored
+# Do not count Jupyter notebooks in GitHub language statistics
+**/*.ipynb linguist-detectable=false
 
-# Exclude datasets and generated experiment files
-data/** linguist-vendored
-exp/** linguist-generated
+# Do not count datasets
+data/** linguist-detectable=false
 
-# Keep actual source scripts counted
-local/*.sh linguist-detectable
-scripts/*.sh linguist-detectable
+# Do not count generated experiment files
+exp/** linguist-detectable=false
