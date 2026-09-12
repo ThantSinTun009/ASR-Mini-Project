@@ -80,7 +80,8 @@ More Details: [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main
 
 - https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool
 
-- https://arxiv.org/abs/2506.07149
+- [Technical Report: A Practical Guide to Kaldi ASR Optimization
+](https://arxiv.org/abs/2506.07149)
 
 ---
 
