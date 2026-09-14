@@ -78,10 +78,22 @@ More Details: [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main
 
 ## References
 
-- https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool
+- [Technical Report: A Practical Guide to Kaldi ASR Optimization](https://arxiv.org/abs/2506.07149)
 
-- [Technical Report: A Practical Guide to Kaldi ASR Optimization
-](https://arxiv.org/abs/2506.07149)
+- [LDA & MLLT Documentation](https://cmusphinx.github.io/wiki/ldamllt/)
+
+- [Towards Speaker Adaptive Training of Deep Neural Network Acoustic Models ](https://www.cs.cmu.edu/~ymiao/pub/ivec_draft_final.pdf)
+
+- Povey, D., Ghoshal, A., Boulianne, G., et al. (2011). The Kaldi Speech Recognition Toolkit. IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU).
+
+- [Kaldi Speech Recognition Toolkit Documentation. Kaldi ASR Project](https://kaldi-asr.org/doc/)
+
+- [Our Project Dataset, Experiments, and Evaluation Results](https://github.com/ThantSinTun009/ASR-Mini-Project/tree/main). Group 4, Assignment 4 — ASR Mini Project, AIE-F Batch-2, 2026.
+
+- [Recording Tool](https://github.com/ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool): ye-kyaw-thu/AIE-F-B2/tree/main/assignment/assignment-4/recording_tool
+
+- [Quick fmllr for speaker adaptation in speech recognition](https://ieeexplore.ieee.org/document/4518605)
+
 
 ---
 
